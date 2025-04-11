@@ -11,7 +11,7 @@
   <h2>📈 The Evolution</h2>
   <p>Each project builds on the previous one, gradually increasing in complexity. The idea is to learn progressively, mastering each concept before moving on to the next. This approach helps prevent the frustration of trying to solve problems beyond our current understanding, and offers a solid roadmap for self-taught learners or educators who value practical projects as learning tools, and for those who, like me, like to learn and compare different languages.</p>
 
-  <h2>🧪 Magecraft (Project 1)</h2>
+  <h2>🧪 PROJECT 1 - MAGECRAFT UNIVERSITY</h2>
   <p><strong>Magecraft</strong> is the first project in our journey. Its focus is on <strong>variables and data types</strong>. It's a simple character generator that uses user input to create a magical alias and assign a mana level. Though small in scope, it lays a foundational skillset that will be essential throughout the rest of the journey.</p>
 
   <h2>🌱 Recommendation</h2>
