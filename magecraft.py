@@ -2,7 +2,7 @@
 
 color = input("Enter a color: ")
 animal = input("Enter an animal: ")
-mana = input("Enter a numhber between 100 and 900: ")
+mana = int(input("Enter a number between 100 and 900: "))
 
 print("\nWelcome to Magecraft University")
 print(f"Your alias is The {color} {animal}")
