@@ -6,7 +6,7 @@
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; background-color: #fdfcf9; padding: 20px; max-width: 800px; margin: auto;">
 
-  <img src="https://cdn.midjourney.com/124c32a2-849e-44d8-8667-c87fcbf5de19/0_3.png" alt="The Fool's Journey Header" style="width: 100%; border-radius: 12px; margin-bottom: 20px;" />
+  <img src="./assets/image_1.png" alt="The Fool's Journey Header" style="width: 100%; border-radius: 12px; margin-bottom: 20px;" />
 
   <h1>🧙‍♂️ The Code Fool's Journey</h1>
 
@@ -24,7 +24,7 @@
   <h2>🌱 Recommendation</h2>
   <p>If this project proves helpful for your learning or teaching, feel free to <strong>modify</strong>, <strong>improve</strong>, or <strong>simplify</strong> it to suit your needs. The Fool’s path is yours to walk in your own way.</p>
 
-  <img src="https://cdn.midjourney.com/e51bc231-4dad-4051-b579-c5912ef83623/0_2.png" alt="The Fool's Journey Footer" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
+  <img src="./assets/image_2.png" alt="The Fool's Journey Footer" style="width: 100%; border-radius: 12px; margin-top: 40px;" />
 
 </body>
 </html>
